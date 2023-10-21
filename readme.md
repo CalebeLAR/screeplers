@@ -35,10 +35,12 @@
 - Constraints  
 
 `Dia 09:`**Create a menu page**  
+
 `Dia 10:`**Explore iterations**  
 - Share designs for feedback  
 - Design in multiplayer  
 <br>
+
 #  Beginner 2: Create designs  
 `Dia 11:`**Use pages**  
 
@@ -59,13 +61,13 @@
 `Dia 19:`**Override properties**  
 
 `Dia 20:`**Create icons with vector networks**  
-
 - Make a menu icon  
 - Make a search icon  
 - Create our navigation bar  
 - FAB, Go to Component, Return to Instance, and Effects  
 - Scrolling, fix position, and device frames  
 <br>
+
 #  Beginner 3: Build prototypes  
 `Dia 21:`**Create prototypes**  
 - Create connections  
@@ -76,6 +78,7 @@
 - Comment on prototyps  
 - Incorporate feedback  
 <br>
+
 #  Beginner 4: Prepare for handoff  
 `Dia 23:`**Custom file thumbnails**  
 
