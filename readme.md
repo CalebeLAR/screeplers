@@ -4,29 +4,29 @@
 - Sign up and create a team  
 - Invite people to your team  
 
-`Dia 02:`**Explore Figma design**  
+:white_check_mark:`Dia 02:`**Explore Figma design**  
 - Canvas  
 - Frames  
 
-`Dia 03:`**Create shapes**  
+:white_check_mark:`Dia 03:`**Create shapes**  
 - Position  
 - Dimensions  
 - Parents and children  
 - Make an avatar  
 
-`Dia 04:`**Layer properties**  
+:white_check_mark:`Dia 04:`**Layer properties**  
 - Colors or paints  
 - Adjust fill or stroke properties  
 - Align siblings  
 - Text  
 
-`Dia 05:`**Copy and duplicate layers**  
+:white_check_mark:`Dia 05:`**Copy and duplicate layers**  
 
-`Dia 06:`**Groups and frames**  
+:white_check_mark:`Dia 06:`**Groups and frames**  
 - Groups  
 - Frames  
 
-`Dia 07:`**Get components**  
+:white_check_mark:`Dia 07:`**Get components**  
 - Duplicate Community files  
 - Professional teams  
 - Starter teams  
