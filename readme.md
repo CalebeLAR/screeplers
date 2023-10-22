@@ -1,6 +1,6 @@
 #  Beginner 1: Explore ideas  
 
-`Dia 01:`**Get started with Figma**  
+:white_check_mark: `Dia 01:`**Get started with Figma**  
 - Sign up and create a team  
 - Invite people to your team  
 
